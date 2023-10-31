@@ -8,4 +8,6 @@ author: "Lucas W, Cameron H, Manning K, Daniel T, Hailey E"
 
 ```{r}
 product = 13 * 13
+
+new_value = 50
 ```
