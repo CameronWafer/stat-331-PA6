@@ -4,7 +4,7 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 self-contained: true
-author: "Lucas, Cameron, Manning, Daniel, Hailey"
+author: "Lucas W, Cameron H, Manning K, Daniel T, Hailey E"
 ---
 
 ## Quarto
